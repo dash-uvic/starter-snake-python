@@ -1,0 +1,14 @@
+{
+   "height": 9,
+   "width" : 9,
+   "food"  : 10,
+   "snakes" : [ 
+        {
+          "name" : "Snake 1",
+          "url"  : "http://127.0.0.1:8080"
+        },
+        {
+          "name" : "Snake 2",
+          "url"  : "http://127.0.0.1:8081"
+        }]
+}
